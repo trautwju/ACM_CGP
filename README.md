@@ -5,7 +5,7 @@ This repository contains the associated code for the paper __Ant-based Metaheuri
 
 ## Source
 
-The code folder contains the source code used to produce the results. It is based on an open source Rust implementation of CGP (LINK). We chose to also use Rust as it runs fast which we needed for the large number of benchmark datasets
+The code folder contains the source code used to produce the results. It is based on an open source Rust implementation of CGP ([https://github.com/CuiHen/Equidistant_Reorder](https://github.com/CuiHen/Equidistant_Reorder)). We chose to also use Rust as it runs fast which we needed for the large number of benchmark datasets
 
 
 ## Results
